@@ -24,7 +24,7 @@ import com.empresa.util.Constantes;
 
 @RestController
 @RequestMapping("/rest/docente")
-@CrossOrigin(origins = "http://localhost:4200")
+//@CrossOrigin(origins = "http://localhost:4200")
 public class DocenteController {
 
 	@Autowired
